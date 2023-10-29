@@ -1,6 +1,6 @@
 # 2048 Oyunu
 
-Bu proje, 2048 oyununu Python programlama dili ile uygulayan bir oyun uygulamasını içerir.
+Bu proje, 2048 oyununu Web programlaması uygulanmış bir oyun uygulamasını içerir.
 
 ## Oyun Kuralları
 
